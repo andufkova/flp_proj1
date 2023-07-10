@@ -1,0 +1,13 @@
+S,A,B
+a,b,c
+S
+S->A
+A->ab
+A->aAB
+A->aBb
+A->aABbbcc
+A->B
+B->a
+B->B
+B->A
+B->BA
